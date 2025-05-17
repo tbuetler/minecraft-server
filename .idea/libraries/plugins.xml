@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/EssentialsXProtect-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/EssentialsXAntiBuild-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Vault.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/EssentialsXChat-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/EssentialsXSpawn-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/AuthMe-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/worldedit-bukkit-7.3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/EssentialsX-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms-Bukkit-5.4.164.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/ProtocolLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

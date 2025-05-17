@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="examination-api-1.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

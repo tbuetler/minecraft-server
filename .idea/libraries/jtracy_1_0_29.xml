@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jtracy-1.0.29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

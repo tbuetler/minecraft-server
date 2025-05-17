@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cli-utils-2.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/neoforged/installertools/cli-utils/2.1.4/cli-utils-2.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

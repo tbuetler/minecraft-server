@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.sisu.inject-0.9.0.M2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/org/eclipse/sisu/org.eclipse.sisu.inject/0.9.0.M2/org.eclipse.sisu.inject-0.9.0.M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

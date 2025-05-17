@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spec-2.0.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/neoforged/javadoctor/spec/2.0.17/spec-2.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

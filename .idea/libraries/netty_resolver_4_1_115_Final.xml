@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-resolver-4.1.115.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

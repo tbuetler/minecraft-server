@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ansi-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/kyori/ansi/1.1.1/ansi-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

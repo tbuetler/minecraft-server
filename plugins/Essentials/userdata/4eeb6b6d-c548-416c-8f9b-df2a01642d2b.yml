@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.59.199.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747414669082
+  login: 1747414074633
+money: '0'
+last-account-name: LtxLinux
+logoutlocation:
+  world: 5152abec-8866-4b16-9bd8-743d8099646a
+  world-name: world
+  x: 153.36719770126035
+  y: 113.85874694417127
+  z: 156.07076435462503
+  yaw: 84.44979858398438
+  pitch: 22.20008087158203
+lastlocation:
+  world: 5152abec-8866-4b16-9bd8-743d8099646a
+  world-name: world
+  x: 0.5
+  y: 0.0
+  z: 0.5
+  yaw: 46.199989318847656
+  pitch: -1.6500028371810913

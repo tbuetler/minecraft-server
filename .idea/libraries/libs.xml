@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/commodore-2.2-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/commodore-file-1.0-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/caffeine-2.9.0-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/jar-relocator-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/okio-1.17.5-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/okhttp-3.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/event-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/asm-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/adventure-4.13.0-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/commodore-file-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/adventure-platform-bukkit-4.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/event-3.0.0-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/okhttp-3.14.9-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/adventure-platform-bukkit-4.13.3-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/h2-driver-2.1.214.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/adventure-platform-4.13.0-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/okio-1.17.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/bytebuddy-1.10.22-remapped.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/caffeine-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/adventure-4.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/adventure-platform-4.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/asm-commons-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/bytebuddy-1.10.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LuckPerms/libs/commodore-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

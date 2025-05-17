@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jspecify-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

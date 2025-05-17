@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="content-type-2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

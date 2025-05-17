@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geantyref-1.3.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/io/leangen/geantyref/geantyref/1.3.16/geantyref-1.3.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reflection-rewriter-proxy-generator-0.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/io/papermc/reflection-rewriter-proxy-generator/0.0.3/reflection-rewriter-proxy-generator-0.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

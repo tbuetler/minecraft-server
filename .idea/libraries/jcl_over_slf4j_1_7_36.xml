@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcl-over-slf4j-1.7.36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

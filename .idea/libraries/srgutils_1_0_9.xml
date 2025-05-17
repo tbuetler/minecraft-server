@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="srgutils-1.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/neoforged/srgutils/1.0.9/srgutils-1.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
