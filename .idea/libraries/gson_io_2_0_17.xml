@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gson-io-2.0.17">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libraries/net/neoforged/javadoctor/gson-io/2.0.17/gson-io-2.0.17.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
