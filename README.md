@@ -7,16 +7,23 @@ The Berner Altstadt in the Minecraft Univers. Enjoy it!
 
 ## How to Join the Server
 1. **Get the Game/Platform**:  
-   Make sure you have Java 1.21.4 Edition.
+   Make sure you have `Java 1.21.4` Edition.
 
 2. **Connect to the Server**:  
    Use the following information to connect:
-    - **Server IP/Address**: `172.236.194.240`
-    - **Port**: `default`
+   - **Server Domain**: 'mine5.playbern.ch' (perhaps doesn't work)
+   - **Server IP/Address**: `172.236.194.240`
+   - **Port**: `default`
+   - **Server Map**: `http://172.236.194.240:8123`
 
 3. **Server Add-ons**:  
    - **AuthMe**
+      - /register `password` `password` 
+      - /login `password`
    - **LuckPerms**
+     - default - no permissions
+     - builder - building
+     - admin - op
    - **Vault**
    - **EssentialsX**
    - **EssentialsXChat**
@@ -31,7 +38,7 @@ The Berner Altstadt in the Minecraft Univers. Enjoy it!
 ---
 
 ## Managing Your Experience
-- **Need Help?**: Contact Tim Bütler via Github :).
+- **Need Help?**: Contact Tim Bütler via Github :)
 - **Updates/Announcements**: Stay updated on new features, events, or maintenance schedules.
 
 ---
