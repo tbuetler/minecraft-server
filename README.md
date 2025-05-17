@@ -11,7 +11,7 @@ The Berner Altstadt in the Minecraft Univers. Enjoy it!
 
 2. **Connect to the Server**:  
    Use the following information to connect:
-   - **Server Domain**: 'mine5.playbern.ch' (perhaps doesn't work)
+   - **Server Domain**: `mine5.playbern.ch` (only work part time :O )
    - **Server IP/Address**: `172.236.194.240`
    - **Port**: `default`
    - **Server Map**: `http://172.236.194.240:8123`
